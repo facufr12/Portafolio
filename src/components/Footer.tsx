@@ -12,7 +12,10 @@ function Footer() {
         <a href="https://github.com/facufr12" target="_blank" rel="noreferrer"><GitHubIcon/></a>
         <a href="https://www.linkedin.com/in/facundofierro-frontend/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
         <a href="https://wa.me/1125315884" target="_blank" rel="noreferrer"><WhatsappIcon/></a>
-        <a href="/Frontend.pdf" target="_blank" rel="noreferrer"><FilePresentIcon/></a>
+        <a href="/Facundo Frontend.pdf" download=" Frontend.pdf">
+  <FilePresentIcon />
+</a>
+
       </div>
     </footer>
   );

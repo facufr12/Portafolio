@@ -10,9 +10,9 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Complete App Cober</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://crudsales-produccion.vercel.app/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://crudsales-produccion.vercel.app/" target="_blank" rel="noreferrer"><h2>Complete App Company</h2></a>
+                <p>A complete app for the employees of Cober company, designed to help sales representatives increase prepaid medical plan sales, with login functionality, prospect updates, and progress tracking..</p>
             </div>
             <div className="project">
                 <a href="https://calculadora-scoring-bajas.netlify.app/" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>

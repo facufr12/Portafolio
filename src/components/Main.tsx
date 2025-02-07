@@ -3,6 +3,7 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import WhatsappIcon from '@mui/icons-material/WhatsApp';
 import '../assets/styles/Main.scss';
+import FilePresentIcon from '@mui/icons-material/FilePresent';
 import Logo from "../assets/images/logofacu.jpeg"
 function Main() {
 
@@ -15,6 +16,9 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
+          <a href="/Facundo Frontend.pdf" download=" Frontend.pdf">
+  <FilePresentIcon />
+</a>
             <a href="https://github.com/facufr12" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/facundofierro-frontend/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
             <a href="https://wa.me/1125315884" target="_blank" rel="noreferrer"><WhatsappIcon/></a>
@@ -26,6 +30,10 @@ function Main() {
             <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
             <a href="https://wa.me/1125315884" target="_blank" rel="noreferrer"><WhatsappIcon/></a>
+            <a href="/Facundo Frontend.pdf" download=" Frontend.pdf">
+  <FilePresentIcon />
+</a>
+      
           </div>
         </div>
       </div>

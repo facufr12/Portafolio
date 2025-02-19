@@ -16,7 +16,7 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-          <a href="/Facundo Frontend.pdf" download=" Frontend.pdf">
+          <a href="/FacundoFrontend.pdf" download=" Frontend.pdf">
   <FilePresentIcon />
 </a>
             <a href="https://github.com/facufr12" target="_blank" rel="noreferrer"><GitHubIcon/></a>
@@ -30,7 +30,7 @@ function Main() {
             <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
             <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
             <a href="https://wa.me/1125315884" target="_blank" rel="noreferrer"><WhatsappIcon/></a>
-            <a href="/Facundo Frontend.pdf" download=" Frontend.pdf">
+            <a href="/FacundoFrontend.pdf" download=" Frontend.pdf">
   <FilePresentIcon />
 </a>
       

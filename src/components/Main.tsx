@@ -25,7 +25,7 @@ function Main() {
             <a href="https://wa.me/1125315884" target="_blank" rel="noreferrer"><WhatsappIcon/></a>
           </div>
           <h1>Facundo Fierro</h1>
-          <p>Frontend Engineer</p>
+          <p>Software Engineer</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>

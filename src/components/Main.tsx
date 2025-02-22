@@ -5,13 +5,14 @@ import WhatsappIcon from '@mui/icons-material/WhatsApp';
 import '../assets/styles/Main.scss';
 import FilePresentIcon from '@mui/icons-material/FilePresent';
 import Logo from "../assets/images/logofacu.jpeg"
+import Memoji from "../assets/images/memoji.webp"
 function Main() {
 
   return (
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-        <img src={Logo} alt="Avatar" />
+        <img src={Memoji} alt="Avatar" />
 
         </div>
         <div className="content">
